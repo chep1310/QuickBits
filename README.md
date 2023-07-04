@@ -1,0 +1,2 @@
+# QuickBits
+A Blogging Website
